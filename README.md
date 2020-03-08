@@ -1,3 +1,3 @@
 # Hello-World
 A beginning test.
-An interested layman learns using this tool.
+An interested layman learns to use this tool.
